@@ -12,7 +12,7 @@ The ```main.cpp``` contains a few test cases and has 3 different types of instru
 2. *Remove*: To test this operation push ```2``` in the vector o.
 3. *Exists*: To test this operation push ```3``` in the vector o along with the element to be checked in  a.
 
-**Note**: *Remove* operation removes the root Node in the heap.
+<i>**Note**</i>: *Remove* operation removes the root Node in the heap.
 
 #### How the library avoid deadlocks:
 
